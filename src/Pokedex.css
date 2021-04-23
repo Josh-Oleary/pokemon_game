@@ -1,0 +1,19 @@
+.container {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    justify-content: center;
+    margin-left: 7em;
+}
+
+.Pokedex-exp {
+    text-align: center;
+}
+
+.Pokedex-win {
+    background-color: green;
+    
+}
+.Pokedex-lose {
+    background-color: rgb(255, 0, 0, .5);
+    
+}

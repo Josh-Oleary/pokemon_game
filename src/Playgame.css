@@ -1,0 +1,8 @@
+.Playgame-container {
+    display: flex;
+    justify-content: center;
+}
+
+.Playgame-btn {
+    margin: 1em;
+}
